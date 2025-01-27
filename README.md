@@ -10,11 +10,11 @@
 
 🚀 Enthusiastic and detail-oriented *Software Developer* with expertise in backend development, data analytics, and MERN stack projects. I specialize in building dynamic, scalable, and visually appealing applications.
 
-🎓 *Education*: BE in Computer Science and Engineering (2023) from Sathyabama Institute Of Science And Technology, Chennai, India.
+🎓 *Education*: BE in Computer Science and Engineering (2023) from [Your Institution Name], [Your Location].
 
 🌱 *Currently Exploring*: Advanced backend integrations and analytics platforms like Tableau and Apache Superset.
 
-📍 *Location*: Bangalore Urban, India
+📍 *Location*: [Your City], [Your Country].
 
 ---
 
@@ -36,7 +36,7 @@
   - SEO-optimized and business-ready
   - Responsive design for mobile and desktop
   - Seamless client communication
-- *[Live Demo](https://euro-design-studio.web.app)*
+- *[Live Demo](https://your-project-link.web.app)*
 
 ### 🏖️ *2. Travel Your Way*
 
@@ -46,7 +46,7 @@
   - Intuitive UI/UX design
   - Scalable architecture
   - Responsive interface for all devices
-- *[Live Demo](https://kerthikrosan.vercel.app)*
+- *[Live Demo](https://your-live-demo-link.vercel.app)*
 
 ### 📊 *3. Data Visualization Dashboards*
 
@@ -62,11 +62,11 @@
 <h2 style="color:#00FFFF;">📈 <strong>My GitHub Analytics</strong></h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerthikrosan&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamkumarU&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s;"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerthikrosan&theme=vue" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamkumarU&theme=vue" alt="Profile Summary"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=kerthikrosan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=RamkumarU&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
@@ -74,9 +74,9 @@
 <h2 style="color:#00FFFF;">🌌 <strong>Advanced Analytics and Visuals</strong></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerthikrosan&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats" style="transition: opacity 0.5s;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamkumarU&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats" style="transition: opacity 0.5s;"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthikrosan&layout=compact&theme=radical&title_color=00FFFF" alt="Top Languages" style="transition: opacity 0.5s;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarU&layout=compact&theme=radical&title_color=00FFFF" alt="Top Languages" style="transition: opacity 0.5s;"/>
 </div>
 
 ---
@@ -98,13 +98,13 @@
 <h2 style="color:#00FFFF;">📡 <strong>Connect with Me</strong></h2>
 
 <div align="center">
-  <a href="https://kerthikrosan.vercel.app">
+  <a href="https://your-portfolio-link.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=00FFFF" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/kerthikrosan-m/">
+  <a href="https://www.linkedin.com/in/RamkumarU/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/kerthikrosan">
+  <a href="https://github.com/RamkumarU">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub"/>
   </a>
 </div>
