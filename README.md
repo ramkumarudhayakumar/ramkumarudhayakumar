@@ -1,7 +1,7 @@
 <h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>Ramkumar U</strong></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Expert+%26+Frontend+Developer;Innovator+and+Collaborator;Fueled+by+Creativity+%26+Coffee!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Expert+%26+Frontend+Developer;Innovator+and+Collaborator;Fueled+by+Creativity+%26+Coffee!" alt="Typing Animation" />
 </div>
 
 ---
