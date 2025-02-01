@@ -1,82 +1,62 @@
-<h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>RamkumarU</strong></h1>
+<h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>Ramkumar U</strong></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Developer;Specialized+in+MERN+Stack+%26+Analytics;Enjoy+Some+Code+%26+Coffee!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Web+Developer;Specialized+in+MERN+Stack+%26+Frontend;Enjoy+Some+Code+%26+Coffee!" alt="Typing Animation" />
 </div>
 
 ---
 
 <h2 style="color:#00FFFF;">💻 <strong>About Me</strong></h2>
 
-🚀 Enthusiastic and detail-oriented *Software Developer* with expertise in backend development, data analytics, and MERN stack projects. I specialize in building dynamic, scalable, and visually appealing applications.
+🚀 Enthusiastic and detail-oriented *Web Developer* specializing in visually appealing and interactive websites. 
 
-🎓 *Education*: BE in Computer Science and Engineering (2023) from [Your Institution Name], [Your Location].
+🎓 *Education*: BE in Mechatronics Engineering (2023) from M.A.M School of Engineering, Trichy, India.
 
-🌱 *Currently Exploring*: Advanced backend integrations and analytics platforms like Tableau and Apache Superset.
+🌱 *Currently Exploring*: Advanced frontend animations and scalable full-stack solutions.
 
-📍 *Location*: [Your City], [Your Country].
+📍 *Location*: Chennai, India.
 
 ---
 
 <h2 style="color:#00FFFF;">🌟 <strong>My Tech Stack</strong></h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,postgresql,python,flask,js,html,css,tailwind,tableau,django&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,js,html,css,bootstrap,tailwind" alt="Tech Stack" />
 </div>
 
 ---
 
 <h2 style="color:#00FFFF;">🧑‍💻 <strong>Featured Projects</strong></h2>
 
-### 🎨 *1. Euro Design Studio*
+### 🎨 *1. Architectural Brilliance: Interior Design Platform*
 
 - *Description*: A full-stack platform showcasing architectural and interior design portfolios.
 - *Tech Stack*: React.js, MongoDB, Email.js
 - *Features*:
-  - SEO-optimized and business-ready
-  - Responsive design for mobile and desktop
-  - Seamless client communication
-- *[Live Demo](https://your-project-link.web.app)*
+  - Responsive and user-friendly UI/UX design
+  - Seamless client communication via Email.js
+  - Optimized for SEO and cross-device functionality
+- *[Live Demo](https://euro-design-studio.web.app)*
 
-### 🏖️ *2. Travel Your Way*
+### 🛒 *2. MERN Stack eCommerce Platform*
 
-- *Description*: A premium full-stack booking platform for modern explorers.
-- *Tech Stack*: React.js, MongoDB, Node.js
+- *Description*: A visually appealing and scalable eCommerce platform.
+- *Tech Stack*: MERN (MongoDB, Express, React, Node.js), Bootstrap 5.3, MUI
 - *Features*:
-  - Intuitive UI/UX design
-  - Scalable architecture
-  - Responsive interface for all devices
-- *[Live Demo](https://your-live-demo-link.vercel.app)*
-
-### 📊 *3. Data Visualization Dashboards*
-
-- *Description*: Advanced interactive dashboards for business insights.
-- *Tech Stack*: Tableau, Apache Superset, Python Flask
-- *Features*:
-  - Automated data extraction and transformation
-  - Embedded dynamic visualizations
-  - Real-time decision-making capabilities
+  - Smooth animations and dynamic user interactions
+  - Advanced product filtering and search
+  - Efficient API communication with Axios
 
 ---
 
 <h2 style="color:#00FFFF;">📈 <strong>My GitHub Analytics</strong></h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamkumarU&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamkumarU&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamkumarU&theme=vue" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamkumarU&theme=vue" alt="Profile Summary" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=RamkumarU&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
-<h2 style="color:#00FFFF;">🌌 <strong>Advanced Analytics and Visuals</strong></h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamkumarU&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats" style="transition: opacity 0.5s;"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarU&layout=compact&theme=radical&title_color=00FFFF" alt="Top Languages" style="transition: opacity 0.5s;"/>
 </div>
 
 ---
@@ -85,27 +65,26 @@
 
 ### Languages
 
-- JavaScript, Python, React.js
+- JavaScript, React.js
 
 ### Frameworks & Tools
 
 - MERN Stack (MongoDB, Express, React, Node.js)
-- Tableau, Apache Superset
-- Flask, Django
+- MySQL, Bootstrap 5.3, Tailwind
 
 ---
 
 <h2 style="color:#00FFFF;">📡 <strong>Connect with Me</strong></h2>
 
 <div align="center">
-  <a href="https://your-portfolio-link.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=00FFFF" alt="Portfolio"/>
+  <a href="mailto:ramkumarudhayakumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/RamkumarU/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ramkumaru/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RamkumarU">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
