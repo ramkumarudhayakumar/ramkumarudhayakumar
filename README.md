@@ -80,11 +80,14 @@
   <a href="mailto:ramkumarudhayakumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ram-kumar-u-a6893921a/">
+  <a href="https://www.linkedin.com/in/ramkumar-udhayakumar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RamkumarU">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://my-portfolio-88988.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%230089FF.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
